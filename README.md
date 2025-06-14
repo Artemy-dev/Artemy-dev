@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Artemy 👋</h1>
+<h1 align="center">Привет, я Артем 👋</h1>
 <p align="center">
   Python-разработчик · CLI-утилиты · Open Source · ML · DevOps
 </p>
@@ -42,6 +42,26 @@ python main.py  # Запускаешь — и он подбирает парол
 - Linux, командная строка
 - Git, GitHub
 - Основы CI/CD, работа с Docker
+
+---
+
+📚 Проекты
+🧠 CNN для распознавания рукописных цифр
+Статья на Habr: habr.com/p/856426
+
+🤖 Курс "Telegram-бот на Python"
+🟢 Платформа: Stepik
+📘 Ссылка: stepik.org/course/211057
+
+---
+
+🎓 Образование
+Специальность: Вычислительные машины, комплексы, системы и сети
+
+---
+
+📬 Связь
+TG: @Artemy_Develop
 
 ---
 

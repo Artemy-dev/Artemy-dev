@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Артем 👋</h1>
 <p align="center">
-  Python · Golang · ML · DevOps
+  Python • Golang • Backend • ML • DevOps
 </p>
 
 

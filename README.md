@@ -60,7 +60,7 @@ python main.py  # Запускаешь — и он подбирает парол
 ---
 
 ## 📬 Связь
-TG: [**@Artemy_Develop**](https://t.me/Artemy_Develop)
+TG: [**@Artemy_Develop**](https://t.me/Artemy_Develop)<br>
 TG-канал: [**@Код.Просто**](https://t.me/code_just)
 
 ---

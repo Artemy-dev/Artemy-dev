@@ -61,8 +61,12 @@ python main.py  # Запускаешь — и он подбирает парол
 
 ## 📬 Связь
 TG: [**@Artemy_Develop**](https://t.me/Artemy_Develop)
+TG-канал: [**@Код.Просто**](https://t.me/code_just)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()

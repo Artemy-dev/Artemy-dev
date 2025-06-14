@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Привет! Я Артем
 
-<!--
-**Artemy-dev/Artemy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Python-разработчик. Люблю писать полезные скрипты, утилиты и инструменты автоматизации.
 
-Here are some ideas to get you started:
+📦 Мой первый публичный проект:
+[ZipNumUnlock](https://github.com/Artemy-dev/ZipNumUnlock) — CLI-утилита для брутфорса ZIP/RAR/7z с числовым паролем.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Интересуюсь:
+- Python, CLI, API
+- WEB-разработка
+- Безопасность и автоматизация
+- Разработка инструментов для разработчиков
+
+📫 Telegram: [@code_just]([https://t.me/твой_ник](https://t.me/code_just))  
+⭐️ Подписывайся, если тоже увлекаешься Python и open source!

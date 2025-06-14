@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠 Первый проект на GitHub
+## 🛠 Первый проект на GitHub
 
 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
 CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.
@@ -18,51 +18,51 @@ python main.py  # Запускаешь — и он подбирает парол
 
 ---
 
-### 💡 Навыки и технологии<br>
-## 💻 Языки программирования
+## 💡 Навыки и технологии<br>
+### 💻 Языки программирования
 - Python (уверенный уровень)
 - Golang (начальный уровень)
 - C, C++, C# (базовые знания)
 
-## 🌐 Веб-технологии
+### 🌐 Веб-технологии
 - HTML и CSS
 - Flask, Django
 - Requests, Selenium
 
-## 📊 Машинное обучение и анализ данных
+### 📊 Машинное обучение и анализ данных
 - TensorFlow (включая Keras)
 - NumPy, Pandas, Matplotlib
 - Построение и обучение нейросетей
 
-## 🛢 Базы данных
+### 🛢 Базы данных
 - SQL (работа с реляционными БД)
 - SQLAlchemy (ORM для Python)
 
-## ⚙️ DevOps и инструменты
+### ⚙️ DevOps и инструменты
 - Linux, командная строка
 - Git, GitHub
 - Основы CI/CD, работа с Docker
 
 ---
 
-### 📚 Проекты
-##🧠 CNN для распознавания рукописных цифр
+## 📚 Проекты
+### 🧠 CNN для распознавания рукописных цифр
 Статья на Habr: habr.com/p/856426
-##🤖 Курс "Telegram-бот на Python"
+### 🤖 Курс "Telegram-бот на Python"
 🟢 Платформа: Stepik
 📘 Ссылка: stepik.org/course/211057
 
 ---
 
-### 🎓 Образование
+## 🎓 Образование
 Специальность: Вычислительные машины, комплексы, системы и сети
 
 ---
 
-### 📬 Связь
+## 📬 Связь
 TG: @Artemy_Develop
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>

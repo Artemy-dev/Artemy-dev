@@ -47,10 +47,9 @@ python main.py  # Запускаешь — и он подбирает парол
 
 ## 📚 Проекты
 ### 🧠 CNN для распознавания рукописных цифр
-Статья на Habr: habr.com/p/856426
+📘 [**Статья на Habr**](https://habr.com/p/856426)
 ### 🤖 Курс "Telegram-бот на Python"
-🟢 Платформа: Stepik<br>
-📘 Ссылка: stepik.org/course/211057
+📘 [**Курс на Stepik**](https://stepik.org/course/211057)
 
 ---
 

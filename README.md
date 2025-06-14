@@ -1,7 +1,8 @@
-<h1 align="center">Привет, я Артем 👋</h1>
+<h1 align="center">Привет, я Artemy 👋</h1>
 <p align="center">
-  Python-разработчик · CLI-утилиты · Open Source · ML · DevOps
+  Python · Golang · ML · DevOps
 </p>
+
 
 ---
 

@@ -3,18 +3,6 @@
   Python • Golang • Backend • ML • DevOps
 </p>
 
-<p align="center">
-  <a href="https://github.com/Artemy-dev">
-    <img src="https://img.shields.io/github/followers/Artemy-dev?label=Follow&style=social" />
-  </a>
-  <a href="https://pypi.org/project/datathing/">
-    <img src="https://img.shields.io/pypi/v/datathing?color=blue&label=datathing&logo=pypi" />
-  </a>
-  <a href="https://t.me/Artemy_Develop">
-    <img src="https://img.shields.io/badge/Telegram-@Artemy__Develop-blue?logo=telegram" />
-  </a>
-</p>
-
 ---
 
 ## 🛠 Инструменты тестирования безопасности (CLI)
@@ -24,6 +12,13 @@ CLI-утилита на Python для взлома ZIP, RAR и 7z архивов
 
 ### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)  
 CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.
+
+---
+
+## 📦 Python-библиотеки
+
+### 📊 [**datathing**](https://github.com/Artemy-dev/datathing) [`PyPI`](https://pypi.org/project/datathing/)  
+Автоматический анализ и визуализация табличных данных (EDA + статистика) для `pandas.DataFrame`.  
 
 ---
 

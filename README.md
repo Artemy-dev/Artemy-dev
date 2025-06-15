@@ -3,6 +3,17 @@
   Python • Golang • Backend • ML • DevOps
 </p>
 
+<p align="center">
+  <a href="https://github.com/Artemy-dev">
+    <img src="https://img.shields.io/github/followers/Artemy-dev?label=Follow&style=social" />
+  </a>
+  <a href="https://pypi.org/project/datathing/">
+    <img src="https://img.shields.io/pypi/v/datathing?color=blue&label=datathing&logo=pypi" />
+  </a>
+  <a href="https://t.me/Artemy_Develop">
+    <img src="https://img.shields.io/badge/Telegram-@Artemy__Develop-blue?logo=telegram" />
+  </a>
+</p>
 
 ---
 

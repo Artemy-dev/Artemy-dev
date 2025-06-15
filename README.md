@@ -73,3 +73,5 @@ TG-канал: [**@Код.Просто**](https://t.me/code_just)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![PyPI version](https://img.shields.io/pypi/v/datathing?color=brightgreen&label=PyPI&logo=pypi)](https://pypi.org/project/datathing/)
+

@@ -11,8 +11,9 @@
 Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
 (CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.)
 
-### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)  
-CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.
+### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)
+CLI tool for ARP flood and Wi-Fi protection testing.
+*(CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.)*
 
 ---
 

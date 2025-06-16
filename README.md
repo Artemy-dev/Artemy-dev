@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Artem 👋</h1>
-<h1 align="center">Привет, я Артем 👋</h1>
 <p align="center">
   Python • Golang • Backend • ML • DevOps
 </p>
@@ -7,7 +6,6 @@
 ---
 
 ## 🛠 Security Testing Tools (CLI)
-## (Инструменты тестирования безопасности)
 
 ### 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
 Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>

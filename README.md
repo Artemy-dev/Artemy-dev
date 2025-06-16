@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Artem 👋</h1>
 <h1 align="center">Привет, я Артем 👋</h1>
 <p align="center">
   Python • Golang • Backend • ML • DevOps
@@ -5,10 +6,12 @@
 
 ---
 
-## 🛠 Инструменты тестирования безопасности (CLI)
+## 🛠 Security Testing Tools (CLI)
+## (Инструменты тестирования безопасности)
 
 ### 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
-CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.
+Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
+(CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.)
 
 ### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)  
 CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.

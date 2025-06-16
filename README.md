@@ -54,31 +54,25 @@ Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
 
 ---
 
-Вот адаптированная двуязычная версия блоков **«Проекты», «Образование» и «Связь»**, включая ссылку на LinkedIn. Всё выдержано в твоём стиле:
-
----
-
 ## 📚 Projects, Publications & Contributions
-
 *(Проекты, публикации и участие)*
 
-* 🧠 **CNN for Handwritten Digit Recognition**
-  📘 [Article on Habr (in Russian)](https://habr.com/p/856426)
-  *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
+* 🧠 **CNN for Handwritten Digit Recognition**<br>
+📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
+*(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
 
-* 🤖 **Course: Telegram Bot with Python**
-  🎓 [Stepik course (in Russian)](https://stepik.org/course/211057)
-  *(Курс на Stepik: «Telegram-бот на Python»)*
+* 🤖 **Course: Telegram Bot with Python**<br>
+🎓 [Stepik course (in Russian)](https://stepik.org/course/211057)<br>
+*(Курс на Stepik: «Telegram-бот на Python»)*
 
-* 📜 **Participation in the “Tsifrium” AI-in-Education Project**
-  Neural networks in modern teaching practices
-  [📄 Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)
-  *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
+* 📜 **Participation in the “Tsifrium” AI-in-Education Project**<br>
+Neural networks in modern teaching practices<br>
+[📄 Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
+*(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 
 ---
 
 ## 🎓 Education
-
 Specialization: Computer Systems and Networks
 *(Специальность: Вычислительные машины, комплексы, системы и сети)*
 
@@ -89,10 +83,6 @@ Specialization: Computer Systems and Networks
 * Telegram: [**@Artemy\_Develop**](https://t.me/Artemy_Develop)
 * Telegram channel: [**@Код.Просто**](https://t.me/code_just)
 * LinkedIn: [**artemy-dev**](https://www.linkedin.com/in/artemy-dev/)
-
----
-
-Если хочешь, могу финально собрать всё в единый файл `README.md` и отдельно предложить `README.ru.md` (на 100% по-русски), чтобы оставить выбор читателю.
 
 ---
 

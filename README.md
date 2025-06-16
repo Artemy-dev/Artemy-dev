@@ -9,45 +9,48 @@
 
 ### 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
 Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
-(CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.)
+*(CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.)*
 
 ### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)
-CLI tool for ARP flood and Wi-Fi protection testing.
+CLI tool for ARP flood and Wi-Fi protection testing.<br>
 *(CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.)*
 
 ---
 
-## 📦 Python-библиотеки
+## 📦 Python Libraries
 
-### 📊 [**datathing**](https://github.com/Artemy-dev/datathing) [`PyPI`](https://pypi.org/project/datathing/)  
-Автоматический анализ и визуализация табличных данных (EDA + статистика) для `pandas.DataFrame`.  
+### 📊 [**datathing**](https://github.com/Artemy-dev/datathing) [`PyPI`](https://pypi.org/project/datathing/)
+Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
+*(Автоматический анализ и визуализация табличных данных.)*
 
 ---
 
-## 💡 Навыки и технологии<br>
-### 💻 Языки программирования
-- Python (уверенный уровень)
-- Golang (начальный уровень)
-- C, C++, C# (базовые знания)
+## 💡 Skills & Technologies  
+*(Навыки и технологии)*
 
-### 🌐 Веб-технологии
-- HTML и CSS
-- Flask, Django
-- Requests, Selenium
+### 💻 Programming Languages  
+* Python — Intermediate / Advanced *(уверенный уровень)*  
+* Golang — Beginner *(начальный уровень)*  
+* C, C++, C# — Basic *(базовые знания)*
 
-### 📊 Машинное обучение и анализ данных
-- TensorFlow (включая Keras)
-- NumPy, Pandas, Matplotlib
-- Построение и обучение нейросетей
+### 🌐 Web Technologies  
+* HTML & CSS  
+* Flask, Django  
+* Requests, Selenium
 
-### 🛢 Базы данных
-- SQL (работа с реляционными БД)
-- SQLAlchemy (ORM для Python)
+### 📊 Machine Learning & Data Analysis  
+* TensorFlow (including Keras)  
+* NumPy, Pandas, Matplotlib  
+* Building and training neural networks *(Построение и обучение нейросетей)*
 
-### ⚙️ DevOps и инструменты
-- Linux, командная строка
-- Git, GitHub
-- Основы CI/CD, работа с Docker
+### 🛢 Databases  
+* SQL — Intermediate, experience with relational databases *(опыт работы с реляционными БД)*  
+* SQLAlchemy — Python ORM used in multiple projects *(используется в нескольких проектах)*
+
+### ⚙️ DevOps & Tools  
+* Linux, command line  
+* Git, GitHub  
+* Basic CI/CD, working with Docker *(работа с Docker и CI/CD)*
 
 ---
 

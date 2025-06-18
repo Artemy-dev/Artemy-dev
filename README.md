@@ -25,6 +25,14 @@ Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
 
 ---
 
+## 🧰 Project Templates (Starters)
+
+### 🚀 [**PyBotForge**](https://github.com/Artemy-dev/PyBotForge)
+Starter template for building Telegram bots using Python, pyTelegramBotAPI, and SQLite.<br>
+(Шаблон для быстрого запуска Telegram-ботов с использованием Python и SQLite.)
+
+---
+
 ## 💡 Skills & Technologies  
 *(Навыки и технологии)*
 

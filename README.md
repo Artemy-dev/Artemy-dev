@@ -90,7 +90,6 @@ Specialization: Computer Systems and Networks
 
 * Telegram: [**@Artemy\_Develop**](https://t.me/Artemy_Develop)
 * Telegram channel: [**@Код.Просто**](https://t.me/code_just)
-* LinkedIn: [**artemy-dev**](https://www.linkedin.com/in/artemy-dev/)
 
 ---
 

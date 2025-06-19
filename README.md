@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm Artem 👋</h1>
+<h1 align="center">👋 Hi, I'm Artem – Backend Developer</h1>
 <p align="center">
-  Python • Golang • Backend • ML • DevOps
+  🐍 Python | ⚙️ Golang | 🧪 CLI Tools | 🤖 Bots | 🤝 Automation | 📊 ML
 </p>
+
 
 ---
 
-## 🛠 Security Testing Tools (CLI)
+## 🧪 CLI Utilities for Testing & Networking
 
 ### 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
 Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
@@ -29,7 +30,7 @@ Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
 
 ### 📸 [**SmartVideoSelfie**](https://github.com/Artemy-dev/SmartVideoSelfie)
 Extracts sharp frames (selfies) from a video using OpenCV.<br>
-*(CLI-инструмент для извлечения чётких кадров из видео, например, селфи.)*
+*(CLI-инструмент для извлечения чётких кадров из видео. Просто сними видео — и получи лучшие селфи!)* 
 
 ---
 
@@ -41,8 +42,8 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 
 ---
 
-## 💡 Skills & Technologies  
-*(Навыки и технологии)*
+## 🧠 Skills & Tech Stack
+*(Навыки, технологии и инструменты)*
 
 ### 💻 Programming Languages  
 * Python — Intermediate / Advanced *(уверенный уровень)*  
@@ -78,8 +79,8 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
 
 * 🤖 **Course: Telegram Bot with Python**<br>
-🎓 [Stepik course (in Russian)](https://stepik.org/course/211057)<br>
-*(Курс на Stepik: «Telegram-бот на Python»)*
+🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3000+ students enrolled<br>
+*(Курс на Stepik: «Telegram-бот на Python» — прошли более 3000 человек)*
 
 * 📜 **Participation in the “Tsifrium” AI-in-Education Project**<br>
 Neural networks in modern teaching practices<br>
@@ -102,6 +103,7 @@ Specialization: Computer Systems and Networks
 ---
 
 ## 📊 GitHub Stats
+<sub>Some activity stats from public repositories:</sub>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)]()

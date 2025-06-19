@@ -18,7 +18,7 @@ CLI tool for ARP flood and Wi-Fi protection testing.<br>
 
 ---
 
-## 📦 Python Libraries
+## 📦 Python Libraries (PyPI)
 
 ### 📊 [**datathing**](https://github.com/Artemy-dev/datathing)  
 Automatic EDA and visualization tool for `pandas.DataFrame`.<br>

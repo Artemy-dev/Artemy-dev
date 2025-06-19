@@ -25,6 +25,14 @@ Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
 
 ---
 
+## 🎥 Media Tools (CLI)
+
+### 📸 [**SmartVideoSelfie**](https://github.com/Artemy-dev/SmartVideoSelfie)
+Extracts sharp frames (selfies) from a video using OpenCV.<br>
+*(CLI-инструмент для извлечения чётких кадров из видео, например, селфи.)*
+
+---
+
 ## 🧰 Project Templates (Starters)
 
 ### 🚀 [**PyBotForge**](https://github.com/Artemy-dev/PyBotForge)

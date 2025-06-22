@@ -84,7 +84,7 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 
 * 📜 **Participation in the “Tsifrium” AI-in-Education Project**<br>
 Neural networks in modern teaching practices<br>
-[📄 Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
+📄[Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
 *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 
 ---

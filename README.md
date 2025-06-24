@@ -90,8 +90,8 @@ Neural networks in modern teaching practices<br>
 ---
 
 ## 🎓 Education
-Specialization: Computer Systems and Networks
-*(Специальность: Вычислительные машины, комплексы, системы и сети)*
+Specialization: Computer Systems and Networks<br>
+*Специальность: Вычислительные машины, комплексы, системы и сети*
 
 ---
 

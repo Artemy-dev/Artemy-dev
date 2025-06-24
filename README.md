@@ -67,7 +67,7 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 ### ⚙️ DevOps & Tools  
 * Linux, command line  
 * Git, GitHub  
-* Basic CI/CD, working with Docker *(работа с Docker и CI/CD)*
+* Basic CI/CD and Docker workflows *(работа с Docker и CI/CD)*
 
 ---
 
@@ -78,7 +78,7 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
 *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
 
-* 🤖 **Course: Telegram Bot with Python**<br>
+* 🤖 **Course: Build a Telegram Bot with Python**<br>
 🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3000+ students enrolled<br>
 *(Курс на Stepik: «Telegram-бот на Python» — прошли более 3000 человек)*
 
@@ -98,15 +98,9 @@ Specialization: Computer Systems and Networks
 ## 📬 Contacts
 
 * Telegram: [**@Artemy\_Develop**](https://t.me/Artemy_Develop)
-* Telegram channel: [**@Код.Просто**](https://t.me/code_just)
+* E-mail: artemy.develop@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
-<sub>Some activity stats from public repositories:</sub>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![PyPI version](https://img.shields.io/pypi/v/datathing?color=brightgreen&label=PyPI&logo=pypi)](https://pypi.org/project/datathing/)
-

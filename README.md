@@ -65,29 +65,15 @@
 ## 🧠 Skills & Tech Stack
 *(Навыки, технологии и инструменты)*
 
-### 💻 Programming Languages  
-* Python — Intermediate / Advanced *(уверенный уровень)*  
-* Golang — Beginner *(начальный уровень)*  
-* C, C++, C# — Basic *(базовые знания)*
-
-### 🌐 Web Technologies  
-* HTML & CSS  
-* Flask, Django  
-* Requests, Selenium
-
-### 📊 Machine Learning & Data Analysis  
-* TensorFlow (including Keras)  
-* NumPy, Pandas, Matplotlib  
-* Building and training neural networks *(Построение и обучение нейросетей)*
-
-### 🛢 Databases  
-* SQL — Intermediate, experience with relational databases *(опыт работы с реляционными БД)*  
-* SQLAlchemy — Python ORM used in multiple projects *(используется в нескольких проектах)*
-
-### ⚙️ DevOps & Tools  
-* Linux, command line  
-* Git, GitHub  
-* Basic CI/CD and Docker workflows *(работа с Docker и CI/CD)*
+| 🧩 Категория              | 🛠️ Инструменты и технологии                                  |
+| ------------------------- | ------------------------------------------------------------ |
+| 💻 Языки программирования | Python (Advanced), Golang (Beginner), C/C++/C# (Basic)       |
+| 🌐 Web-технологии         | HTML, CSS, Flask, Django, Requests, Selenium                 |
+| 📊 Машинное обучение      | TensorFlow, Keras, NumPy, Pandas, Matplotlib                 |
+| 🧠 Нейросети              | Создание и обучение моделей, работа с изображениями (OpenCV) |
+| 🛢️ Базы данных            | SQL (Intermediate), SQLAlchemy                               |
+| ⚙️ DevOps & Tools         | Linux, Git, GitHub, CI/CD, Docker                            |
+| 📦 Другие                 | PyPI packaging, Telegram API, CLI-инструменты                |
 
 ---
 

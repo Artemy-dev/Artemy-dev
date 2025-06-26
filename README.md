@@ -24,15 +24,15 @@
 
 * **[datathing](https://github.com/Artemy-dev/datathing)**
   Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
-  *(Библиотека для автоматического анализа и визуализации табличных данных)*
+  *(Библиотека для автоматического анализа и визуализации табличных данных)*<br>
   📦 Available on PyPI: [`pip install datathing`](https://pypi.org/project/datathing/)
 
-* 🧠 **CNN for Handwritten Digit Recognition**
+* **CNN for Handwritten Digit Recognition**
   📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
   *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
 
 * 🤖 **Participation in the "Tsifrium" AI-in-Education Project**
-  Application of neural networks in modern teaching practices
+  Application of neural networks in modern teaching practices<br>
   📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
   *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 

@@ -92,3 +92,6 @@ Specialization: Computer Systems and Networks<br>
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Artemy-dev&color=blue)
+

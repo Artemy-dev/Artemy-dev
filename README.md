@@ -19,8 +19,8 @@
 ### 🧠 AI / ML
 
 * **[SmartVideoSelfie](https://github.com/Artemy-dev/SmartVideoSelfie)**
-  Extracts sharp frames (selfies) from a video using OpenCV.<br>
-  *(CLI-инструмент для извлечения чётких кадров из видео. Просто сними видео — и получи лучшие селфи!)*
+  Extracts sharp frames from a video using OpenCV.<br>
+  *(CLI-инструмент для извлечения лучших кадров из видео.)*
 
 * **[datathing](https://github.com/Artemy-dev/datathing)**
   Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
@@ -31,7 +31,7 @@
   📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
   *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
 
-* 🤖 **Participation in the "Tsifrium" AI-in-Education Project**
+* **Participation in the "Tsifrium" AI-in-Education Project**
   Application of neural networks in modern teaching practices<br>
   📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
   *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*

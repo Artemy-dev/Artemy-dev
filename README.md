@@ -1,44 +1,64 @@
 <h1 align="center">👋 Hi, I'm Artem – Backend Developer</h1>
 <p align="center">
-  🐍 Python | ⚙️ Golang | 🧪 CLI Tools | 🤖 Bots | 🤝 Automation | 📊 ML
+  🐍 Python | ⚙️ Golang | 🖥️ Backend | 🧠 AI/ML | 🛡️ Cybersecurity | 🎓 Teaching
 </p>
 
 ---
 
-## 🧪 CLI Utilities for Testing & Networking
+## 🚀 Project Portfolio  
+*(Портфолио проектов)*
 
-### 🚀 [**ZipNumUnlock**](https://github.com/Artemy-dev/ZipNumUnlock)  
-Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
-*(CLI-утилита на Python для взлома ZIP, RAR и 7z архивов с числовыми паролями.)*
+### 🖥️ Backend
 
-### 🚀 [**ARPFloodTool**](https://github.com/Artemy-dev/ARPFloodTool)
-CLI tool for ARP flood and Wi-Fi protection testing.<br>
-*(CLI-инструмент для ARP-флуда и тестирования защиты Wi-Fi сетей.)*
-
----
-
-## 📦 Python Libraries (PyPI)
-
-### 📊 [**datathing**](https://github.com/Artemy-dev/datathing)  
-Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
-*(Автоматический анализ и визуализация табличных данных.)*  
-📦 Available on PyPI: [`pip install datathing`](https://pypi.org/project/datathing/)
+* **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)**
+  Starter template for building Telegram bots with Python and SQLite.<br>
+  *(Шаблон для создания Telegram-ботов с использованием Python, pyTelegramBotAPI и SQLite)*
 
 ---
 
-## 🎥 Media Tools (CLI)
+### 🧠 AI / ML
 
-### 📸 [**SmartVideoSelfie**](https://github.com/Artemy-dev/SmartVideoSelfie)
-Extracts sharp frames (selfies) from a video using OpenCV.<br>
-*(CLI-инструмент для извлечения чётких кадров из видео. Просто сними видео — и получи лучшие селфи!)* 
+* **[SmartVideoSelfie](https://github.com/Artemy-dev/SmartVideoSelfie)**
+  Extracts sharp frames (selfies) from a video using OpenCV.<br>
+  *(CLI-инструмент для извлечения чётких кадров из видео. Просто сними видео — и получи лучшие селфи!)*
+
+* **[datathing](https://github.com/Artemy-dev/datathing)**
+  Automatic EDA and visualization tool for `pandas.DataFrame`.<br>
+  *(Библиотека для автоматического анализа и визуализации табличных данных)*
+  📦 Available on PyPI: [`pip install datathing`](https://pypi.org/project/datathing/)
+
+* 🧠 **CNN for Handwritten Digit Recognition**
+  📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
+  *(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
+
+* 🤖 **Participation in the "Tsifrium" AI-in-Education Project**
+  Application of neural networks in modern teaching practices
+  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
+  *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 
 ---
 
-## 🧰 Project Templates (Starters)
+### 🛡️ Cybersecurity
 
-### 🚀 [**PyBotForge**](https://github.com/Artemy-dev/PyBotForge)
-Starter template for building Telegram bots using Python, pyTelegramBotAPI, and SQLite.<br>
-(Шаблон для быстрого запуска Telegram-ботов с использованием Python и SQLite.)
+* **[ZipNumUnlock](https://github.com/Artemy-dev/ZipNumUnlock)**
+  Python CLI utility for brute-forcing ZIP, RAR, and 7z archives with numeric passwords.<br>
+  *(CLI-утилита для взлома ZIP, RAR и 7z архивов с числовыми паролями)*
+
+* **[ARPFloodTool](https://github.com/Artemy-dev/ARPFloodTool)**
+  CLI tool for ARP flood and Wi-Fi protection testing.<br>
+  *(Инструмент для ARP-флуда и тестирования Wi-Fi сетей)*
+
+* **[ffuf-guide](https://github.com/Artemy-dev/ffuf-guide)**
+  Russian-language guide and cheat sheet for FFuF web fuzzing tool.<br>
+  *(Подробная русскоязычная инструкция по инструменту FFuF для пентестеров)*
+
+---
+
+### 🎓 Teaching
+
+* **Course: Build a Telegram Bot with Python**
+  🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3000+ students enrolled<br>
+  *(Курс на Stepik: «Создание Telegram-бота на Python» — прошли более 3000 человек)*
 
 ---
 
@@ -68,24 +88,6 @@ Starter template for building Telegram bots using Python, pyTelegramBotAPI, and 
 * Linux, command line  
 * Git, GitHub  
 * Basic CI/CD and Docker workflows *(работа с Docker и CI/CD)*
-
----
-
-## 📚 Projects, Publications & Contributions
-*(Проекты, публикации и участие)*
-
-* 🧠 **CNN for Handwritten Digit Recognition**<br>
-📘 [Article on Habr (in Russian)](https://habr.com/p/856426)<br>
-*(Статья на Хабре: «CNN для распознавания рукописных цифр»)*
-
-* 🤖 **Course: Build a Telegram Bot with Python**<br>
-🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3000+ students enrolled<br>
-*(Курс на Stepik: «Telegram-бот на Python» — прошли более 3000 человек)*
-
-* 📜 **Participation in the “Tsifrium” AI-in-Education Project**<br>
-Neural networks in modern teaching practices<br>
-📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
-*(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 
 ---
 

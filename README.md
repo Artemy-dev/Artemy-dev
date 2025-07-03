@@ -33,8 +33,7 @@
 
 * **Participation in the "Tsifrium" AI-in-Education Project**
   Application of neural networks in modern teaching practices<br>
-  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
-  *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
+  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf) *(Участие в проекте «Цифриум»: Применение нейросетей в работе педагога)*
 
 ---
 
@@ -56,7 +55,7 @@
 
 ### 🎓 Teaching
 
-* **Course: Build a Telegram Bot with Python**
+* **Course: Build a Telegram Bot with Python**<br>
   🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3000+ students enrolled<br>
   *(Курс на Stepik: «Создание Telegram-бота на Python» — прошли более 3000 человек)*
 

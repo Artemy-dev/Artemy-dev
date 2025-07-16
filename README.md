@@ -3,7 +3,7 @@
 
 ---
 
-### 🖥️ Backend
+## 🖥️ Backend
 
 * **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)**<br>
   Modular starter template for building Telegram bots using Python and SQLite.<br>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎓 Teaching
+## 🎓 Teaching
 
 * **Course: Build a Telegram Bot with Python**<br>
   🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3500+ enrolled<br>
@@ -28,16 +28,14 @@
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
-| Категория         | Технологии                                           |
-| ----------------- | ---------------------------------------------------- |
-| 💻 Languages      | Python (Advanced), Go (Junior), C/C++/C# (Basic)     |
-| 🌐 Web            | Flask, Django, REST API, Telegram Bot API           |
-| 🗃️ Databases     | SQLite, PostgreSQL, SQLAlchemy                       |
-| ⚙️ DevOps & Tools | Git, GitHub, CI/CD, Docker, Linux                    |
-| 📊 Data & ML      | Pandas, NumPy, Matplotlib, OpenCV, TensorFlow, Keras |
-| 🧰 Packaging      | PyPI, CLI tools, dotenv, project templates           |
+| Категория         | Технологии                         |
+| ----------------- | ---------------------------------- |
+| 💻 Languages      | Python (advanced), Go (junior)     |
+| 🌐 Backend & APIs | Flask, Django, REST API            |
+| 🗃️ Databases     | SQLite, PostgreSQL, SQLAlchemy     |
+| ⚙️ DevOps & Tools | Linux, Git, GitHub, CI/CD, Docker  |
 
 ---
 

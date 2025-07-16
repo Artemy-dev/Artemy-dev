@@ -1,36 +1,34 @@
-<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h1> <p align="center"> 🐍 Python | ⚙️ Golang | 🖥️ Backend Systems </p>
+<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h1> 
+<p align="center"> 🐍 Python | ⚙️ Golang | 🖥️ Backend Systems </p>
 
 ---
 
-## 🚀 Project Portfolio  
-*(Портфолио проектов)*
-
 ### 🖥️ Backend
 
-* **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)**
-  Modular starter template for building Telegram bots using Python and SQLite.
+* **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)**<br>
+  Modular starter template for building Telegram bots using Python and SQLite.<br>
   *(Модульный шаблон Telegram-бота: конфиги, хендлеры, keyboards, SQLite, .env)*
 
 ---
 
 ### 🎓 Teaching
 
-* **Course: Build a Telegram Bot with Python**
-  🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3500+ enrolled
+* **Course: Build a Telegram Bot with Python**<br>
+  🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3500+ enrolled<br>
   *(Курс: создание Telegram-ботов на Python с нуля)*
 
-* **CNN for Digit Recognition**
-  📘 [Habr article (in Russian)](https://habr.com/p/856426)
+* **CNN for Digit Recognition**<br>
+  📘 [Habr article (in Russian)](https://habr.com/p/856426)<br>
   *(Объяснение архитектуры и реализации CNN для распознавания цифр)*
 
-* **Participation in the "Tsifrium" AI-in-Education Project**
-  Neural networks in modern teaching practice
-  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)
+* **Participation in the "Tsifrium" AI-in-Education Project**<br>
+  Neural networks in modern teaching practice<br>
+  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
   *(Участие в проекте «Цифриум»: применение нейросетей в педагогике)*
 
 ---
 
-## 🧠 Tech Stack
+### 🧠 Tech Stack
 
 | Категория         | Технологии                                           |
 | ----------------- | ---------------------------------------------------- |

@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h2> 
+<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h1> 
 <p align="center"> 🐍 Python | ⚙️ Golang | 🖥️ Backend Systems </p>
 
 ---

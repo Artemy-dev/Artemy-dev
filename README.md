@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer & Educator</h1>
-<p align="center">
-  🐍 Python | ⚙️ Golang | 🖥️ Backend | 🧠 AI/ML | 🛡️ Cybersecurity | 🎓 Teaching
-</p>
+<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h1> <p align="center"> 🐍 Python | ⚙️ Golang | 🖥️ Backend Systems | 🧠 Automation & Tooling </p>
 
 ---
 

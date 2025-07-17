@@ -17,6 +17,10 @@
   🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3500+ enrolled<br>
   *(Курс: создание Telegram-ботов на Python с нуля)*
 
+* **Course: Git for Beginners — Full Git & GitHub Practice**<br>
+  🎓 [Stepik course (in Russian)](https://stepik.org/247874)<br>
+  *(Курс: Git для начинающих — от основ до практики работы с GitHub)*
+
 * **CNN for Digit Recognition**<br>
   📘 [Habr article (in Russian)](https://habr.com/p/856426)<br>
   *(Объяснение архитектуры и реализации CNN для распознавания цифр)*
@@ -25,6 +29,7 @@
   Neural networks in modern teaching practice<br>
   📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/Применение%20нейросетей.pdf)<br>
   *(Участие в проекте «Цифриум»: применение нейросетей в педагогике)*
+
 
 ---
 

@@ -27,7 +27,7 @@
 
 * **Participation in the "Tsifrium" AI-in-Education Project**<br>
   Neural networks in modern teaching practice<br>
-  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/AI-in-Education)<br>
+  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/AI-in-Education.pdf)<br>
   *(Участие в проекте «Цифриум»: применение нейросетей в педагогике)*
 
 

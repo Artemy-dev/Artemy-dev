@@ -1,64 +1,50 @@
-<h1 align="center">👋 Hi, I'm Artem Grachev – Backend Developer (Python / Go)</h1> 
-<p align="center"> 🐍 Python | ⚙️ Golang | 🖥️ Backend | 🎓 Teaching </p>
+# 👋 Привет! Я Артём
+
+Backend-разработчик (Python / Go) | Junior
 
 ---
 
-## 🖥️ Backend
-
-* **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)**<br>
-  Modular starter template for building Telegram bots using Python and SQLite.<br>
-  *(Модульный шаблон Telegram-бота: конфиги, хендлеры, keyboards, SQLite, .env)*
-
----
-
-## 🎓 Teaching
-
-* **Course: Build a Telegram Bot with Python**<br>
-  🎓 [Stepik course (in Russian)](https://stepik.org/course/211057) — 3500+ enrolled<br>
-  *(Курс: создание Telegram-ботов на Python с нуля)*
-
-* **Course: Git for Beginners — Full Git & GitHub Practice**<br>
-  🎓 [Stepik course (in Russian)](https://stepik.org/247874)<br>
-  *(Курс: Git для начинающих — от основ до практики работы с GitHub)*
-
-* **CNN for Digit Recognition**<br>
-  📘 [Habr article (in Russian)](https://habr.com/p/856426)<br>
-  *(Объяснение архитектуры и реализации CNN для распознавания цифр)*
-
-* **Participation in the "Tsifrium" AI-in-Education Project**<br>
-  Neural networks in modern teaching practice<br>
-  📄 [Certificate (PDF)](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/AI-in-Education.pdf)<br>
-  *(Участие в проекте «Цифриум»: применение нейросетей в педагогике)*
-
+## 💻 Ключевые навыки
+- **Языки:** Python, Go  
+- **Backend:** Flask, Django, FastAPI  
+- **API:** REST API, JSON  
+- **Базы данных:** PostgreSQL, MySQL, SQLite  
+- **ORM:** SQLAlchemy  
+- **Инструменты:** Git, GitHub, Linux  
+- **Web / Безопасность:** HTML, CSS, bcrypt  
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Опыт
+**Backend-разработчик (фриланс)** — апрель 2024 — настоящее время  
+- Разработка и поддержка web-приложений и Telegram-ботов  
+- Проектирование REST API и интеграция с БД  
+- Деплой и сопровождение проектов  
 
-| Категория         | Технологии                         |
-| ----------------- | ---------------------------------- |
-| 💻 Languages      | Python (advanced), Go (junior)     |
-| 🌐 Backend & APIs | Flask, Django, REST API            |
-| 🗃️ Databases     | SQLite, PostgreSQL, SQLAlchemy     |
-| ⚙️ DevOps & Tools | Linux, Git, GitHub, CI/CD, Docker  |
-
----
-
-## 🎓 Education
-
-Specialization: Computer Systems and Networks
-*Специальность: Вычислительные машины, комплексы, системы и сети*
+**Преподаватель (Московский международный колледж / IT-школа)**  
+- Преподавание Python, backend, базы данных и сетевое программирование  
+- Разработка учебных проектов и курсов  
 
 ---
 
-## 📬 Contacts
-
-* Telegram: [**@Artemy\_Develop**](https://t.me/Artemy_Develop)
-* Email: [artemy.develop@gmail.com](mailto:artemy.develop@gmail.com)
+## 📂 Проекты
+- **[PyBotForge](https://github.com/Artemy-dev/PyBotForge)** — шаблон Telegram-бота с модульной архитектурой  
+- **CNN для распознавания цифр** — учебный ML-проект  
+  - Статья: [Habr](https://habr.com/p/856426)  
+  - Сертификат: [PDF](https://github.com/Artemy-dev/Artemy-dev/blob/main/certificates/AI-in-Education.pdf)  
+- **Онлайн-курсы (Stepik, 7500+ студентов)**  
+  - Git для начинающих: [Stepik](https://stepik.org/course/247874)  
+  - Telegram-боты на Python: [Stepik](https://stepik.org/course/211057)  
+  - Python: основы, ООП, GitHub, REST API: [Stepik](https://stepik.org/course/215116)  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Artemy-dev&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemy-dev&layout=compact&theme=radical" width="380"/> </p>
+## 🎓 Образование
+**Ульяновский электромеханический колледж**  
+Специальность: Вычислительные машины, комплексы, системы и сети
 
-![Profile Views](https://komarev.com/ghpvc/?username=Artemy-dev&color=blue)
+---
+
+## ⚡ Дополнительно
+- Pet-project: игра на Unity
+- Активно изучаю Go и новые backend-технологии

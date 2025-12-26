@@ -1,6 +1,8 @@
 # 👋 Привет! Я Артем
 
 Backend-разработчик (Python / Go) | Преподаватель
+- Telegram: [@Artemy_Develop](https://t.me/Artemy_Develop)  
+- Email: artemy.develop@gmail.com
 
 ---
 
@@ -51,7 +53,3 @@ Backend-разработчик (Python / Go) | Преподаватель
 ## ⚡ Хобби
 - Разработка игр на Unity
 - Активно изучаю Go и backend-технологии
-
-## 📬 Контакты
-- Telegram: [@Artemy_Develop](https://t.me/Artemy_Develop)  
-- Email: artemy.develop@gmail.com

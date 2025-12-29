@@ -11,10 +11,8 @@ Backend-разработчик (Python / Go) | Преподаватель
 | Категория             | Навыки                                    |
 |-----------------------|-------------------------------------------|
 | Языки                 | Python, Go                                |
-| Backend               | Flask, Django, FastAPI                     |
-| API                   | Проектирование REST API                     |
-| Базы данных           | PostgreSQL, MySQL, SQLite                  |
-| ORM                   | SQLAlchemy                                 |
+| Backend               | Flask, Django, FastAPI, Проектирование REST API                     |
+| Базы данных           | PostgreSQL, MySQL, SQLite, SQLAlchemy                   |
 | Инструменты           | Git, GitHub, Linux                         |
 | Web / Безопасность    | HTML, CSS, Web-аутентификация (bcrypt)    |
 

@@ -22,9 +22,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 ### Backend-разработчик (фриланс)
 
 <br>Разработка backend-сервисов и API для веб-проектов.
-
 <br>**Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
-
 <br>**Обязанности:**
 
 - Проектирование и реализация REST API на FastAPI, Flask и Django

@@ -46,6 +46,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 **Backend API для цифрового магазина**
 [GitHub](https://github.com/Artemy-dev/fastapi-digital-store)
 <br>Полноценный backend-проект e-commerce платформы.
+
 <br>**Функциональность:**
 
 * REST API: пользователи, товары, корзина, заказы

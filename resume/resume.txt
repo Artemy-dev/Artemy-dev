@@ -44,7 +44,7 @@ IT-школа "Алгоритмика"
 
 Проекты
 
-Backend API для цифрового магазина
+Backend API для цифрового магазина.
 GitHub: https://github.com/Artemy-dev/fastapi-digital-store
 Полноценный backend-проект e-commerce платформы.
 Функциональность:

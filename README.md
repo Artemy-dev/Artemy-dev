@@ -53,7 +53,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 * Управление схемой БД через Alembic
 * Контейнеризация инфраструктуры (PostgreSQL, Redis) через Docker Compose
 
-<br>**Результаты:**
+**Результаты:**
 
 * Оптимизировал проверку запрещённых email-доменов через Redis — сокращение времени ответа эндпоинта на ~90%
 * Реализовал чистое разделение слоёв (API / сервисы / репозитории)

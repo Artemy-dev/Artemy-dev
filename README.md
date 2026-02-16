@@ -23,6 +23,8 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 
 <br>Разработка backend-сервисов и API для веб-проектов.
 
+<br>**Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
+
 <br>**Обязанности:**
 
 - Проектирование и реализация REST API на FastAPI, Flask и Django
@@ -32,7 +34,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 - Асинхронная обработка задач через Celery (email, нотификации)
 - Контейнеризация сервисов и подготовка к продакшену через Docker
 
-<br>**Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
+
 
 ### Преподаватель (Московский международный колледж / IT-школа)
 

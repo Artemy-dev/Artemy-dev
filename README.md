@@ -70,4 +70,4 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 
 ## Дополнительно
 
-Автор онлайн-курсов на [Stepik](https://stepik.org/users/933444538/teach) (8000+ студентов):
+Автор онлайн-курсов на [Stepik](https://stepik.org/users/933444538/teach) (8000+ студентов)

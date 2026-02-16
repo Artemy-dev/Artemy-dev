@@ -21,7 +21,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 
 ### Backend-разработчик (фриланс)
 Разработка backend-сервисов и API для веб-проектов.
-
+<br>**Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
 <br>**Обязанности:**
 
 * Проектирование и реализация REST API на FastAPI, Flask и Django
@@ -30,8 +30,6 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 * Кеширование бизнес-логики с использованием Redis
 * Асинхронная обработка задач через Celery (email, нотификации)
 * Контейнеризация сервисов и подготовка к продакшену через Docker
-
-<br>**Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
 
 ### Преподаватель (Московский международный колледж / IT-школа)
 
@@ -46,7 +44,7 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 ### Backend API для цифрового магазина
 [GitHub](https://github.com/Artemy-dev/fastapi-digital-store)
 <br>Полноценный backend-проект e-commerce платформы.
-
+<br>**Стек:** Python, FastAPI, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
 <br>**Функциональность:**
 
 * REST API: пользователи, товары, корзина, заказы
@@ -61,8 +59,6 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 * Реализовал чистое разделение слоёв (API / сервисы / репозитории)
 * Подготовил проект к деплою в изолированной среде
 
-<br>**Стек:** Python, FastAPI, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
-
 ---
 
 ## 🎓 Образование
@@ -74,4 +70,4 @@ Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlc
 
 ## Дополнительно
 
-Автор онлайн-курсов на [Stepik](https://stepik.org/users/933444538/teach) (7500+ студентов):
+Автор онлайн-курсов на [Stepik](https://stepik.org/users/933444538/teach) (8000+ студентов):

@@ -13,7 +13,7 @@ Backend-разработчик на Python с практическим опыт�
 
 Навыки
 
-Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Celery, SQLAlchemy, Alembic, JWT, OAuth2, Docker, Docker Compose, Linux, Git, GitHub, REST API
+Python, PostgreSQL, Docker, Git, SQL, Linux, REST API, FastAPI, Redis, MySQL, API, Django Framework, REST, MongoDB, SQLAlchemy, GitHub, RabbitMQ, Django Rest Framework, Работа с базами данных, Django, Docker-compose, Unix, Flask, Celery, JWT, OAuth2
 
 
 Опыт
@@ -50,14 +50,13 @@ GitHub: https://github.com/Artemy-dev/fastapi-digital-store
 Функциональность:
 - REST API: пользователи, товары, корзина, заказы
 - Аутентификация: JWT, OAuth2 (Google)
-- Асинхронные задачи через Celery (email, уведомления)
 - Управление схемой БД через Alembic
 - Контейнеризация инфраструктуры (PostgreSQL, Redis) через Docker Compose
 Результаты:
 - Оптимизировал проверку запрещённых email-доменов через Redis - сокращение времени ответа эндпоинта на 90%
 - Реализовал чистое разделение слоёв (API / сервисы / репозитории)
 - Подготовил проект к деплою в изолированной среде
-Стек: Python, FastAPI, PostgreSQL, Redis, Celery, JWT, OAuth2, Docker
+Стек: Python, FastAPI, PostgreSQL, Redis, JWT, OAuth2, Docker
 
 
 Образование

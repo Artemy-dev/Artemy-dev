@@ -1,4 +1,4 @@
-# Python Developer | Преподаватель
+# Python Developer
 
 * Telegram: [@Artemy_Develop](https://t.me/Artemy_Develop)
 * Email: artemy.develop@gmail.com
